@@ -1,3 +1,1 @@
-<p align=center> <img src=https://komarev.com/ghpvc/?username=xelxmyr&color=1d5958&style=flat-square&label=🍊>
-
-![547f8186faa593c1888de3936129088e](https://github.com/user-attachments/assets/7e361497-5195-4bdf-99e1-33e89f5aab5e)
+<img width="1308" height="736" alt="Không Có Tiêu Đề204_20260322143802" src="https://github.com/user-attachments/assets/e01af6e4-478e-46fa-b5b4-be3cc8ce8cf7" />
