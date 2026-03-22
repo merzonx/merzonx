@@ -4,6 +4,5 @@
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=xelxmyr&color=1d5958&style=flat-square&label=🍰>
 
-<img width="736" height="736" alt="Không Có Tiêu Đề206_20260322151228" src="https://github.com/user-attachments/assets/bd899e48-88e9-4d74-a2e5-68b8d1b0aba9" />
-
+<img width="736" height="736" alt="Không Có Tiêu Đề206_20260322151414" src="https://github.com/user-attachments/assets/d6bd2331-953e-44b6-a02d-6ff1633e9422" />
 
